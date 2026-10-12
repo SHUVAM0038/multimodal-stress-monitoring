@@ -1,0 +1,7 @@
+opencv-python
+numpy
+pandas
+openpyxl        # Excel logging
+tensorflow      # provides keras for loading the .hdf5 emotion model
+pyserial
+pytest          # only needed to run the tests
